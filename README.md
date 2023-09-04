@@ -1,0 +1,2 @@
+# di
+go di example
